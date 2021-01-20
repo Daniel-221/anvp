@@ -1,0 +1,1 @@
+console.log([20,40,78,10,30,48].map(()=>Math.floor(100*Math.random())));
